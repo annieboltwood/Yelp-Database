@@ -1,6 +1,4 @@
 #Annie Boltwood
-#CMPT 354
-#301455990
 
 #Imports
 import pyodbc
