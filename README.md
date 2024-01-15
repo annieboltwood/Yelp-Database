@@ -4,7 +4,7 @@ This Yelp Database Application has a terminal interface for interacting with Yel
 # DISCLAIMER ON DATABASE ACCESS
 Due to privacy, access to the database is restricted, and the application cannot be run with the actual database. However, you can watch a demonstration of the application in action by following the link to the video below.
 
-[https://youtu.be/znOJ5ufpwRg](DEMO VIDEO)
+[DEMO VIDEO](https://youtu.be/znOJ5ufpwRg)
 
 
 # APPLICATION FUNCTIONS 
