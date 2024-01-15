@@ -15,22 +15,22 @@ Login<br>
 3. Displays an appropriate message if the user ID is invalid<br>
 4. Opens a menu with selections for the user to choose<br>
 <br>
-Search Business
+Search Business<br>
 1. Lets user search for businesses based on inputted filters<br>
 2. Filters: minimum number of stars, city, and name<br>
 3. Provides three ordering options: name, city, or number of stars<br>
 4. Displays a list of search results with business information<br>
 <br>
-Search Users
+Search Users<br>
 1. Lets user to search for other users based on inputted filters<br>
 2. Criteria include name (case-insensitive), minimum review count, and minimum average stars<br>
 3. Displays a list of search results with user information<br>
 <br>
-Make Friend
+Make Friend<br>
 1. Lets user select another user from the search results and create a friendship<br>
 2. Records the friendship in the Friendship table<br>
 <br>
-Review Business
+Review Business<br>
 1. Allows a user to review business<br>
 2. Enter the business ID<br>
 3. Enter the number of stars<br>
