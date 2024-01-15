@@ -10,10 +10,11 @@ As well, I have included the .py file in the repository and the program function
 
 # Application Functions
 Login<br>
-1. Lets user to log in to the interface to access all other functionalities<br>
-2. Requires entering a valid user ID which then checks the database for validation<br>
-3. Displays an appropriate message if the user ID is invalid<br>
-4. Opens a menu with selections for the user to choose<br><br>
+    1. Lets user to log in to the interface to access all other functionalities<br>
+    2. Requires entering a valid user ID which then checks the database for validation<br>
+    3. Displays an appropriate message if the user ID is invalid<br>
+    4. Opens a menu with selections for the user to choose<br>
+<br>
 Search Business<br>
 1. Lets user search for businesses based on inputted filters<br>
 2. Filters: minimum number of stars, city, and name<br>
