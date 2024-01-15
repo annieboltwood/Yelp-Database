@@ -6,7 +6,7 @@ Due to privacy, access to the database is restricted, and the application cannot
 
 [DEMO VIDEO](https://youtu.be/znOJ5ufpwRg) <br>
 
-As well, I have included the **.py file** in the repository and the **program functionalities** below.
+As well, I have included the <u>.py file</u> in the repository and the <u>program functionalities</u> below.
 
 # Application Functions
 Login<br>
