@@ -1,3 +1,4 @@
+![Banner](https://github.com/annieboltwood/Yelp-Database/blob/main/banner.png?raw=true)
 # YELP DATABASE APPLICATION
 This Yelp Database Application has a terminal interface for interacting with Yelp data stored in a SQL Server database. The application can be run directly on the workstations in CSIL without requiring compilation by the tester.
 
