@@ -10,6 +10,7 @@ Due to privacy, access to the database is restricted, and the application cannot
 As well, I have included the .py file in the repository and the program functionalities below.
 
 # Application Functions
+
 LOGIN<br>
 1. Lets user to log in to the interface to access all other functionalities<br>
 2. Requires entering a valid user ID which then checks the database for validation<br>
